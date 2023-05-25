@@ -2,7 +2,7 @@
 
 In many cases, APIs are required to handle the retrieval of large volumes of data. When dealing with a large number of products, returning all products at once might not be efficient or feasible. This tutorial walks you through the process of implementing advanced data retrieval mechanisms in a .NET Core API using C#. We will focus specifically on pagination, filtering and sorting. 
 
-### Table of Contents
+## Table of Contents
 - [Implementing Pagination](#implementing-pagination)
   - [Adding QueryParameters Model](#adding-queryparameters-model)
   - [Updating the GetAllProducts Method](#updating-the-getallproducts-method)
